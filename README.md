@@ -12,9 +12,6 @@ This project uses Python, Pygame, and OpenCV to simulate and compare the financi
 
 The simulations are designed to be data-rich, incorporating multi-stage scenarios that account for variables like pricing, menu variety, and external factors like weather and local events.
 
-### Watch The Video
-
-**https://youtu.be/YZbaAaOWk7g**
 
 ## Getting Started
 
